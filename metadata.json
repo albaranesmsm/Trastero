@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Trastero",
+  "description": "Herramienta para gestionar el inventario de un trastero mediante códigos QR.",
+  "requestFramePermissions": ["camera"]
+}
